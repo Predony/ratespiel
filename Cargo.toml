@@ -1,0 +1,6 @@
+[package]
+name = "ratespiel"
+version = "0.1.0"
+authors = ["Hans Predony <hans.predony@hotmail.com>"]
+
+[dependencies]
